@@ -1,15 +1,32 @@
-## Task Tracker (Clone coding)
+## Task Tracker
+
+---
+
+### 기술스텍
+
+    - Ubuntu 20.04
+    - Google Chrome
+    - React Hook
+    - React Router (version: ^6.0.2)
+    - React Icons
+    - Json server
 
 ---
 
 ### 기능
 
-    - Add of Delete Task
-    - Add or Close Button
-    - database Json
+<img src="https://user-images.githubusercontent.com/74189121/145434671-f425ac59-429b-4ba2-b82d-561aa21f915a.png">
 
-### 기술스텍
+    - Add button
+    - Delete button
+    - Check button
+    - Submit button
+    - Form Open/Close button
 
-    - React Hook(useState, useEffect)
-    - async await
-    - Json server
+<img src="https://user-images.githubusercontent.com/74189121/145434889-f3aa6e1b-30a8-49d9-9a12-b0456adb98a9.png">
+
+    - Detail View button
+    - Navigate button (go back)
+    - Error Control
+
+<img src="https://user-images.githubusercontent.com/74189121/145434995-bbb851be-d9fe-43ee-98f7-808707cc6835.png">
